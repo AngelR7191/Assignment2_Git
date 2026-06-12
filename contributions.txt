@@ -1,0 +1,1 @@
+- Repositorios locales y remotos\n- Staging area (git add)\n- Commits y confirmaciones\n- Manejo de ramas
